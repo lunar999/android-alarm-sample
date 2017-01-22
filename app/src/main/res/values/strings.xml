@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlarmService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">알람 매니저 사용 예제</string>
+    <string name="alarm_msg">알람 메세지입니다..</string>
+
+</resources>
